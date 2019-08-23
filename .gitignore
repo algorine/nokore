@@ -6,7 +6,7 @@ Nokore/backups
 Nokore/scripts/backups
 Nokore/scripts/logs
 Nokore/scripts/trained_models
-Nokore/scripts/unencoded_chars.json
+# Nokore/scripts/unencoded_chars.json
 Nokore/scripts/data/*.tar.gz
 
 
